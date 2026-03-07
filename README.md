@@ -1,8 +1,8 @@
 # Student Management Web App
 
 ## Thông tin cá nhân
-- **Họ tên:** [Điền tên của bạn]
-- **MSSV:** [Điền MSSV của bạn]
+- **Họ tên:** [Bùi Quang Tuyến]
+- **MSSV:** ["23707921"]
 
 ## Tech Stack
 - **Backend:** FastAPI + SQLite (SQLAlchemy ORM)
