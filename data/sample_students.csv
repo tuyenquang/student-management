@@ -1,0 +1,4 @@
+student_id,name,birth_year,major,gpa,class_id
+S001,Alice,2000,Computer Science,3.5,C01
+S002,Bob,1999,Mathematics,3.7,C02
+S003,Charlie,2001,Physics,3.2,C01
